@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Hoover Fence Co.",
+    "phone": "+13303582335",
+    "category": "fence company",
+    "city": "Cleveland",
+    "state": "OH"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Cleveland's Trusted Fence Experts",
+      "heroSubline": "Durable fences built to withstand Ohio's toughest weather. Serving Cleveland and surrounding areas with quality craftsmanship.",
+      "aboutTitle": "Built on Integrity, Rooted in Cleveland",
+      "aboutText": [
+        "Hoover Fence Co. started with a simple goal: to provide Cleveland homeowners and businesses with fences that not only looked great but also stood the test of time. We're a local company, born and raised in Northeast Ohio, and we understand the unique challenges our climate presents.",
+        "Our approach is straightforward: quality materials, skilled craftsmanship, and unwavering commitment to customer satisfaction. We believe in doing the job right the first time, every time. We don't cut corners, and we stand behind our work with pride.",
+        "We're proud to be a part of the Cleveland community. We source materials locally whenever possible and actively support local initiatives. We believe in giving back to the community that has supported us for so many years."
+      ],
+      "valueProps": [
+        {
+          "title": "Weather-Resistant Builds",
+          "description": "Engineered to endure Cleveland winters and humid summers, preventing premature wear and tear."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced team ensures precise installation for maximum stability and longevity."
+        },
+        {
+          "title": "Custom Designs",
+          "description": "Tailored fence solutions to complement your property's aesthetic and meet your specific needs."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Cleveland's neighborhoods and regulations, ensuring a smooth project from start to finish."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Fence Estimate Today",
+      "ctaSubline": "Protect your property and enhance its value with a durable, expertly installed fence."
+    },
+    "services": [
+      {
+        "slug": "wood-fence-installation",
+        "name": "Wood Fence Installation",
+        "shortDescription": "Classic wood fences, built to last in Cleveland's climate.",
+        "description": "We specialize in crafting beautiful and durable wood fences that enhance the privacy and security of your property. From classic picket fences to sturdy privacy fences, we offer a wide range of wood options to suit your style and budget. We understand the challenges of Cleveland's freeze-thaw cycles, so we use pressure-treated lumber and proven construction techniques to ensure your fence withstands the elements for years to come.\n\nOur wood fence installation process begins with a thorough site assessment to determine the best placement and design for your fence. We then carefully select the highest quality lumber and hardware to ensure lasting performance. Our skilled installers will meticulously construct your fence, paying close attention to detail to ensure a flawless finish. We also offer staining and sealing services to protect your wood fence from the elements and enhance its natural beauty.\n\nWe handle everything from permits to post setting. We're familiar with local regulations and ensure your fence meets all requirements. Trust us to build a wood fence that adds value and curb appeal to your Cleveland home.",
+        "process": [
+          "Step 1: Site Assessment & Design Consultation",
+          "Step 2: Material Selection & Permitting",
+          "Step 3: Precise Post Setting & Framing",
+          "Step 4: Careful Board Installation & Finishing"
+        ],
+        "benefits": [
+          "Enhances Property Value",
+          "Provides Privacy and Security",
+          "Offers a Classic Aesthetic",
+          "Customizable to Your Style"
+        ],
+        "faq": [
+          {
+            "question": "What type of wood is best for fences in Cleveland?",
+            "answer": "Pressure-treated lumber, like cedar or pine, is ideal for Cleveland's climate due to its resistance to rot and insect damage."
+          },
+          {
+            "question": "How long will a wood fence last?",
+            "answer": "With proper maintenance, a well-built wood fence can last 15-20 years or more in the Cleveland area."
+          },
+          {
+            "question": "Do I need a permit for a fence in Cleveland?",
+            "answer": "Yes, most fence installations in Cleveland require a permit. We can handle the permit application process for you."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-fence-installation",
+        "name": "Vinyl Fence Installation",
+        "shortDescription": "Low-maintenance vinyl fences, perfect for busy Cleveland homeowners.",
+        "description": "Enjoy a beautiful and durable fence without the hassle of constant maintenance with our vinyl fence installation services. Vinyl fences are a popular choice for Cleveland homeowners due to their resistance to weathering, fading, and insect damage. They're also incredibly easy to clean, requiring only occasional washing with soap and water.\n\nWe offer a wide variety of vinyl fence styles, colors, and textures to complement any home. Whether you're looking for a traditional picket fence, a privacy fence, or a decorative accent fence, we have the perfect vinyl fence solution for you. Our experienced installers will ensure your vinyl fence is installed properly and securely, providing years of worry-free enjoyment.\n\nVinyl fencing is a great option for areas prone to moisture or salt exposure, making it ideal for properties near Lake Erie. We use high-quality vinyl materials that are specifically designed to withstand the elements and maintain their beauty for years to come. Say goodbye to painting and staining – with a vinyl fence, you can spend more time enjoying your yard and less time maintaining it.",
+        "process": [
+          "Step 1: Design Consultation & Site Survey",
+          "Step 2: Material Selection & Ordering",
+          "Step 3: Professional Installation of Posts & Panels",
+          "Step 4: Final Inspection & Cleanup"
+        ],
+        "benefits": [
+          "Low Maintenance and Easy to Clean",
+          "Resistant to Weathering and Fading",
+          "Wide Variety of Styles and Colors",
+          "Long-Lasting Durability"
+        ],
+        "faq": [
+          {
+            "question": "How long will a vinyl fence last?",
+            "answer": "A properly installed vinyl fence can last 30 years or more with minimal maintenance."
+          },
+          {
+            "question": "Does vinyl fencing fade in the sun?",
+            "answer": "Our vinyl fences are made with UV-resistant materials to prevent fading and maintain their color for years to come."
+          },
+          {
+            "question": "Is vinyl fencing environmentally friendly?",
+            "answer": "Vinyl fencing is made from recyclable materials and can be recycled at the end of its lifespan."
+          }
+        ]
+      },
+      {
+        "slug": "aluminum-fence-installation",
+        "name": "Aluminum Fence Installation",
+        "shortDescription": "Elegant and strong aluminum fences for Cleveland properties.",
+        "description": "Add a touch of elegance and security to your property with our aluminum fence installation services. Aluminum fences are a popular choice for Cleveland homeowners who want a low-maintenance and attractive fencing option. They're ideal for surrounding pools, gardens, and yards.\n\nOur aluminum fences are made from high-quality materials that are resistant to rust and corrosion, making them perfect for Cleveland's humid summers and snowy winters. We offer a variety of styles and colors to complement any home, from classic ornamental designs to sleek modern styles. Our experienced installers will ensure your aluminum fence is installed properly and securely, providing years of worry-free enjoyment.\n\nAluminum fences offer the visual appeal of wrought iron without the high cost and maintenance. They're also a great option for properties with uneven terrain, as they can be easily adjusted to follow the contours of your land. Protect your property and enhance its curb appeal with a beautiful and durable aluminum fence.",
+        "process": [
+          "Step 1: Design Consultation & Property Measurement",
+          "Step 2: Material Selection & Customization",
+          "Step 3: Professional Installation of Posts & Rails",
+          "Step 4: Final Inspection & Quality Assurance"
+        ],
+        "benefits": [
+          "Elegant and Stylish Design",
+          "Low Maintenance and Rust-Resistant",
+          "Ideal for Pools and Gardens",
+          "Enhances Property Security"
+        ],
+        "faq": [
+          {
+            "question": "Will an aluminum fence rust?",
+            "answer": "No, aluminum fences are naturally resistant to rust and corrosion, making them ideal for Cleveland's climate."
+          },
+          {
+            "question": "Can I customize the height and style of my aluminum fence?",
+            "answer": "Yes, we offer a wide variety of customization options to meet your specific needs and preferences."
+          },
+          {
+            "question": "Is an aluminum fence strong enough to keep my pets in the yard?",
+            "answer": "Yes, aluminum fences are strong and durable enough to contain most pets."
+          }
+        ]
+      },
+      {
+        "slug": "chain-link-fence-installation",
+        "name": "Chain Link Fence Installation",
+        "shortDescription": "Affordable and practical chain link fences for Cleveland homes and businesses.",
+        "description": "For a cost-effective and reliable fencing solution, consider our chain link fence installation services. Chain link fences are a popular choice for Cleveland homeowners and businesses who need to secure their property without breaking the bank. They're ideal for containing pets, protecting gardens, and securing commercial properties.\n\nWe offer a variety of chain link fence options, including galvanized steel and vinyl-coated chain link. Our experienced installers will ensure your chain link fence is installed properly and securely, providing years of reliable performance. We also offer a variety of accessories, such as gates, privacy slats, and barbed wire, to customize your chain link fence to meet your specific needs.\n\nChain link fences are a practical and versatile fencing option that can be used in a variety of applications. They're also relatively easy to install and maintain, making them a great choice for budget-conscious property owners. Secure your property with a durable and affordable chain link fence from Hoover Fence Co.",
+        "process": [
+          "Step 1: Site Evaluation & Planning",
+          "Step 2: Post Installation & Concrete Setting",
+          "Step 3: Chain Link Fabric Installation & Tensioning",
+          "Step 4: Gate Installation & Final Adjustments"
+        ],
+        "benefits": [
+          "Affordable and Cost-Effective",
+          "Durable and Long-Lasting",
+          "Versatile and Practical",
+          "Provides Security and Containment"
+        ],
+        "faq": [
+          {
+            "question": "How much does a chain link fence cost?",
+            "answer": "The cost of a chain link fence depends on the height, length, and gauge of the wire. Contact us for a free estimate."
+          },
+          {
+            "question": "Can I add privacy to a chain link fence?",
+            "answer": "Yes, you can add privacy slats to a chain link fence to create a more private and secure enclosure."
+          },
+          {
+            "question": "How long will a chain link fence last?",
+            "answer": "A well-maintained chain link fence can last 20 years or more."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair",
+        "name": "Fence Repair Services",
+        "shortDescription": "Extending the life of your Cleveland fence with expert repairs.",
+        "description": "Don't replace your fence – repair it! Hoover Fence Co. offers comprehensive fence repair services to keep your existing fence in top condition. From minor repairs to major overhauls, we have the expertise to fix any type of fence, including wood, vinyl, aluminum, and chain link. We understand the damage that Cleveland's weather can inflict on fences, from freeze-thaw cycles to wind and storm damage.\n\nOur experienced technicians will assess the damage to your fence and provide a cost-effective repair solution. We use high-quality materials and proven techniques to ensure lasting repairs. Whether you need a few broken boards replaced, a leaning post straightened, or a gate repaired, we can handle it all.\n\nWe pride ourselves on providing prompt and reliable fence repair services. We understand that a damaged fence can compromise your property's security and curb appeal, so we'll work quickly to restore your fence to its original condition. Extend the life of your fence and save money with our expert fence repair services.",
+        "process": [
+          "Step 1: Thorough Fence Inspection & Damage Assessment",
+          "Step 2: Detailed Repair Estimate & Material Sourcing",
+          "Step 3: Skilled Repair Work & Quality Checks",
+          "Step 4: Final Inspection & Customer Satisfaction"
+        ],
+        "benefits": [
+          "Saves Money Compared to Replacement",
+          "Extends the Life of Your Fence",
+          "Restores Security and Curb Appeal",
+          "Prompt and Reliable Service"
+        ],
+        "faq": [
+          {
+            "question": "How much does fence repair cost?",
+            "answer": "The cost of fence repair depends on the extent of the damage and the type of fence. Contact us for a free estimate."
+          },
+          {
+            "question": "Can you repair a fence that has been damaged by a storm?",
+            "answer": "Yes, we have extensive experience repairing fences that have been damaged by storms."
+          },
+          {
+            "question": "How long does fence repair take?",
+            "answer": "The time it takes to repair a fence depends on the extent of the damage. Minor repairs can often be completed in a few hours, while major repairs may take a day or two."
+          }
+        ]
+      },
+      {
+        "slug": "gate-installation-repair",
+        "name": "Gate Installation & Repair",
+        "shortDescription": "Secure and stylish gates for any Cleveland fence or property.",
+        "description": "A well-functioning gate is essential for security and convenience. Hoover Fence Co. offers comprehensive gate installation and repair services for all types of fences. Whether you need a new gate installed, an existing gate repaired, or an automatic gate opener installed, we have the expertise to get the job done right.\n\nWe offer a wide variety of gate styles and materials to choose from, including wood, vinyl, aluminum, and chain link. Our experienced installers will ensure your gate is installed properly and securely, providing years of reliable performance. We also offer a variety of gate hardware options, such as hinges, latches, and locks, to customize your gate to meet your specific needs.\n\nWe understand the importance of a properly functioning gate for security and convenience. That's why we offer prompt and reliable gate repair services. Whether your gate is sagging, sticking, or not closing properly, we can diagnose the problem and provide a cost-effective repair solution. Enhance the security and convenience of your property with a new gate or gate repair from Hoover Fence Co.",
+        "process": [
+          "Step 1: Gate Selection & Design Consultation",
+          "Step 2: Precise Measurements & Site Preparation",
+          "Step 3: Professional Gate Installation & Hardware Mounting",
+          "Step 4: Testing, Adjustments, & Customer Walkthrough"
+        ],
+        "benefits": [
+          "Enhances Security and Convenience",
+          "Wide Variety of Styles and Materials",
+          "Professional Installation and Repair",
+          "Customizable to Your Specific Needs"
+        ],
+        "faq": [
+          {
+            "question": "How much does gate installation cost?",
+            "answer": "The cost of gate installation depends on the type of gate, the size of the opening, and the complexity of the installation. Contact us for a free estimate."
+          },
+          {
+            "question": "Can you repair a gate that is sagging?",
+            "answer": "Yes, we can repair gates that are sagging by replacing hinges, adjusting posts, or adding support brackets."
+          },
+          {
+            "question": "Do you install automatic gate openers?",
+            "answer": "Yes, we install automatic gate openers for residential and commercial properties."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Cleveland",
+        "slug": "cleveland-oh",
+        "state": "OH",
+        "content": "Hoover Fence Co. is proud to provide top-quality fencing solutions to the residents and businesses of Cleveland, Ohio. We understand the unique needs of Cleveland properties, from historic homes in Tremont to modern developments downtown. Our experienced team is dedicated to delivering durable, aesthetically pleasing fences that enhance security, privacy, and property value. \n\nWe offer a wide range of fencing options in Cleveland, including wood, vinyl, aluminum, and chain-link, ensuring we have the perfect fence to match your style and budget. Whether you're looking to enclose your backyard, protect your commercial property, or add a decorative touch to your landscape, Hoover Fence Co. is your trusted partner for all your fencing needs in Cleveland.",
+        "localContext": "Cleveland, a major city in Ohio, sits on the shores of Lake Erie. It's known for its vibrant arts and culture scene, diverse neighborhoods, and rich industrial history.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Parma",
+          "Shaker Heights"
+        ]
+      },
+      {
+        "city": "Parma",
+        "slug": "parma-oh",
+        "state": "OH",
+        "content": "Hoover Fence Co. is a leading provider of fence installation and repair services in Parma, Ohio. We are committed to providing Parma homeowners and businesses with high-quality fencing solutions that meet their specific needs and enhance the beauty and security of their properties. Our experienced team is familiar with Parma's diverse architectural styles and neighborhood regulations, ensuring a seamless and professional fence installation process. \n\nFrom classic wood fences to low-maintenance vinyl options, we offer a wide variety of fencing materials and styles to complement your Parma home or business. We take pride in our craftsmanship and attention to detail, ensuring that every fence we install is built to last and withstand the Ohio climate. Contact Hoover Fence Co. today for a free consultation and let us help you choose the perfect fence for your Parma property.",
+        "localContext": "Parma is a large suburb of Cleveland, known for its residential neighborhoods, parks, and community events.",
+        "nearbyAreas": [
+          "Cleveland",
+          "Brooklyn",
+          "Seven Hills"
+        ]
+      },
+      {
+        "city": "Lakewood",
+        "slug": "lakewood-oh",
+        "state": "OH",
+        "content": "Hoover Fence Co. is delighted to serve the vibrant community of Lakewood, Ohio, with expert fence installation and repair services. We understand the unique character of Lakewood's historic homes and tree-lined streets, and we offer fencing solutions that complement the city's charm while providing security and privacy. Our team is experienced in working with Lakewood's diverse architectural styles and navigating local permitting requirements.\n\nWhether you're looking to enclose your backyard, create a safe play area for children, or enhance the curb appeal of your property, Hoover Fence Co. has the perfect fencing solution for you. We offer a wide selection of materials, including wood, vinyl, aluminum, and chain-link, and we are committed to providing exceptional customer service and quality workmanship. Let us help you transform your Lakewood property with a beautiful and functional fence.",
+        "localContext": "Lakewood is a diverse and walkable city on the western border of Cleveland, known for its historic architecture and vibrant arts scene.",
+        "nearbyAreas": [
+          "Cleveland",
+          "Rocky River",
+          "Brooklyn"
+        ]
+      },
+      {
+        "city": "Westlake",
+        "slug": "westlake-oh",
+        "state": "OH",
+        "content": "Hoover Fence Co. is dedicated to providing Westlake, Ohio residents and businesses with reliable and stylish fencing solutions. We understand the importance of enhancing property value and security in Westlake's thriving community. Our experienced team is equipped to handle any fencing project, from residential backyards to commercial properties, with professionalism and expertise.\n\nWe offer a wide array of fencing options to suit your Westlake property's needs, including wood, vinyl, aluminum, and chain-link. Hoover Fence Co. is committed to delivering exceptional customer service, quality craftsmanship, and long-lasting fencing solutions that enhance the beauty and security of your Westlake property.",
+        "localContext": "Westlake is an affluent suburb of Cleveland, characterized by its well-maintained neighborhoods and excellent schools.",
+        "nearbyAreas": [
+          "Bay Village",
+          "North Olmsted",
+          "Rocky River"
+        ]
+      },
+      {
+        "city": "Rocky River",
+        "slug": "rocky-river-oh",
+        "state": "OH",
+        "content": "Hoover Fence Co. is proud to offer comprehensive fencing services to the residents and businesses of Rocky River, Ohio. We understand the unique needs of properties in this beautiful lakeside community, and we are committed to providing high-quality fencing solutions that enhance both aesthetics and security. Our experienced team is familiar with Rocky River's architectural styles and neighborhood regulations, ensuring a seamless and professional fence installation process.\n\nFrom classic wood fences to durable vinyl options, we offer a wide variety of fencing materials and styles to complement your Rocky River home or business. We take pride in our craftsmanship and attention to detail, ensuring that every fence we install is built to last and withstand the elements. Contact Hoover Fence Co. today for a free consultation and let us help you choose the perfect fence for your Rocky River property.",
+        "localContext": "Rocky River is a charming suburb of Cleveland located on the shores of Lake Erie and the Rocky River.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Westlake",
+          "Bay Village"
+        ]
+      },
+      {
+        "city": "Strongsville",
+        "slug": "strongsville-oh",
+        "state": "OH",
+        "content": "Hoover Fence Co. is your trusted partner for all your fencing needs in Strongsville, Ohio. We provide top-notch fence installation and repair services to homeowners and businesses throughout the Strongsville area. We understand the importance of providing security and enhancing the beauty of your property, and our skilled team is dedicated to delivering exceptional results.\n\nWe offer a wide range of fencing options to suit your Strongsville property's needs, including wood, vinyl, aluminum, and chain-link. Whether you're looking to enclose your backyard, create a safe space for your children or pets, or add a decorative touch to your landscape, Hoover Fence Co. has the perfect fencing solution for you. Contact us today for a free consultation and let us help you choose the ideal fence for your Strongsville property.",
+        "localContext": "Strongsville is a large suburb southwest of Cleveland known for its family-friendly atmosphere and community events.",
+        "nearbyAreas": [
+          "North Royalton",
+          "Brunswick",
+          "Middleburg Heights"
+        ]
+      },
+      {
+        "city": "North Olmsted",
+        "slug": "north-olmsted-oh",
+        "state": "OH",
+        "content": "Hoover Fence Co. is committed to providing top-quality fencing solutions to the residents and businesses of North Olmsted, Ohio. We understand the diverse needs of properties in this growing community, and we are dedicated to delivering durable, aesthetically pleasing fences that enhance security, privacy, and property value. Our experienced team is equipped to handle any fencing project, from residential backyards to commercial properties, with professionalism and expertise.\n\nWe offer a wide range of fencing options to suit your North Olmsted property's needs, including wood, vinyl, aluminum, and chain-link. Whether you're looking to enclose your backyard, protect your commercial property, or add a decorative touch to your landscape, Hoover Fence Co. is your trusted partner for all your fencing needs in North Olmsted.",
+        "localContext": "North Olmsted is a city located west of Cleveland and is known for its shopping centers and residential areas.",
+        "nearbyAreas": [
+          "Fairview Park",
+          "Westlake",
+          "Olmsted Falls"
+        ]
+      },
+      {
+        "city": "Shaker Heights",
+        "slug": "shaker-heights-oh",
+        "state": "OH",
+        "content": "Hoover Fence Co. is pleased to offer expert fencing services to the residents of Shaker Heights, Ohio, known for its beautiful historic homes and carefully planned neighborhoods. We understand the importance of maintaining the architectural integrity of Shaker Heights properties while providing security and privacy. Our team is experienced in working with the city's unique aesthetic standards and navigating local regulations.\n\nWe offer a variety of fencing options that complement Shaker Heights' distinctive character, including classic wood fences, elegant wrought iron designs, and low-maintenance vinyl options. Whether you're looking to enhance your property's curb appeal, create a safe play area for children, or protect your family and belongings, Hoover Fence Co. has the perfect fencing solution for you. Contact us today for a free consultation and let us help you choose the ideal fence for your Shaker Heights home.",
+        "localContext": "Shaker Heights is an affluent suburb east of Cleveland, known for its historic homes, green spaces, and excellent schools.",
+        "nearbyAreas": [
+          "Cleveland Heights",
+          "University Heights",
+          "Beachwood"
+        ]
+      },
+      {
+        "city": "Independence",
+        "slug": "independence-oh",
+        "state": "OH",
+        "content": "Hoover Fence Co. is proud to provide dependable fencing solutions to the residents and businesses of Independence, Ohio. We understand the diverse needs of properties in this thriving community, from residential homes to commercial establishments. Our experienced team is dedicated to delivering durable, aesthetically pleasing fences that enhance security, privacy, and property value.\n\nWe offer a wide range of fencing options in Independence, including wood, vinyl, aluminum, and chain-link, ensuring we have the perfect fence to match your style and budget. Whether you're looking to enclose your backyard, protect your commercial property, or add a decorative touch to your landscape, Hoover Fence Co. is your trusted partner for all your fencing needs in Independence.",
+        "localContext": "Independence is a city in Cuyahoga County, Ohio, known for its central location and business parks.",
+        "nearbyAreas": [
+          "Valley View",
+          "Seven Hills",
+          "Brecksville"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "Hoover Fence did an amazing job installing our new wood fence. The crew was professional, efficient, and the fence looks fantastic. They even cleaned up everything afterwards. Highly recommend!",
+        "date": "2025-05-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Chain Link Fence Installation",
+        "text": "We needed a chain link fence installed quickly for our dog. Hoover Fence gave us a fair price and got the job done in a timely manner. The fence is sturdy and exactly what we needed.",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Vinyl Fence Repair",
+        "text": "After a bad storm, part of our vinyl fence was damaged. Hoover Fence came out quickly and repaired it seamlessly. You can't even tell it was ever damaged. Great service!",
+        "date": "2025-03-10"
+      },
+      {
+        "name": "David S.",
+        "rating": 5,
+        "service": "Aluminum Fence Installation",
+        "text": "The aluminum fence installed around our pool looks beautiful. The team at Hoover Fence was very helpful in choosing the right style and made sure the installation was perfect. Very happy with the result.",
+        "date": "2024-12-01"
+      },
+      {
+        "name": "Lisa R.",
+        "rating": 4,
+        "service": "Gate Repair",
+        "text": "Our gate was dragging and hard to open. Hoover Fence came out and repaired it quickly and affordably. Now it swings smoothly and latches perfectly. Thank you!",
+        "date": "2024-11-18"
+      },
+      {
+        "name": "Tom H.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "From start to finish, the team at Hoover Fence was professional and courteous. They installed a beautiful wood privacy fence that has transformed our backyard. The quality of the materials and workmanship is outstanding.",
+        "date": "2024-10-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Hoover Fence Co. | Cleveland, OH",
+        "description": "Cleveland's trusted fence company. Expert installation & repair of wood, vinyl, aluminum, & chain link fences. Free estimates!"
+      },
+      "about": {
+        "title": "About Hoover Fence Co. | Cleveland, OH",
+        "description": "Learn about Hoover Fence Co.'s commitment to quality fencing in Cleveland. Local experts providing durable & beautiful fence solutions."
+      },
+      "services": {
+        "title": "Fence Services | Hoover Fence Co.",
+        "description": "Comprehensive fence services in Cleveland, OH. Wood, vinyl, aluminum, chain link fence installation & repair. Get a free quote!"
+      },
+      "contact": {
+        "title": "Contact Hoover Fence Co.",
+        "description": "Contact Hoover Fence Co. for fence installation and repair services in Cleveland. Get a free estimate today!"
+      },
+      "reviews": {
+        "title": "Hoover Fence Co. Reviews",
+        "description": "Read reviews from satisfied Hoover Fence Co. customers in Cleveland, OH. Quality fence installation and repair services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Hoover Fence Co.",
+        "description": "Hoover Fence Co. provides fence installation and repair services in Cleveland and surrounding areas. Check our service area!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "wood-fence-installation": "/images/service-wood-fence-installation.webp",
+      "vinyl-fence-installation": "/images/service-vinyl-fence-installation.webp",
+      "aluminum-fence-installation": "/images/service-aluminum-fence-installation.webp",
+      "chain-link-fence-installation": "/images/service-chain-link-fence-installation.webp",
+      "fence-repair": "/images/service-fence-repair.webp",
+      "gate-installation-repair": "/images/service-gate-installation-repair.webp"
+    },
+    "servicesResponsive": {
+      "wood-fence-installation": {
+        "src": "/images/service-wood-fence-installation.webp",
+        "srcset": "/images/service-wood-fence-installation-400w.webp 400w, /images/service-wood-fence-installation-800w.webp 800w, /images/service-wood-fence-installation-1200w.webp 1200w, /images/service-wood-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-fence-installation": {
+        "src": "/images/service-vinyl-fence-installation.webp",
+        "srcset": "/images/service-vinyl-fence-installation-400w.webp 400w, /images/service-vinyl-fence-installation-800w.webp 800w, /images/service-vinyl-fence-installation-1200w.webp 1200w, /images/service-vinyl-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "aluminum-fence-installation": {
+        "src": "/images/service-aluminum-fence-installation.webp",
+        "srcset": "/images/service-aluminum-fence-installation-400w.webp 400w, /images/service-aluminum-fence-installation-800w.webp 800w, /images/service-aluminum-fence-installation-1200w.webp 1200w, /images/service-aluminum-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "chain-link-fence-installation": {
+        "src": "/images/service-chain-link-fence-installation.webp",
+        "srcset": "/images/service-chain-link-fence-installation-400w.webp 400w, /images/service-chain-link-fence-installation-800w.webp 800w, /images/service-chain-link-fence-installation-1200w.webp 1200w, /images/service-chain-link-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair": {
+        "src": "/images/service-fence-repair.webp",
+        "srcset": "/images/service-fence-repair-400w.webp 400w, /images/service-fence-repair-800w.webp 800w, /images/service-fence-repair-1200w.webp 1200w, /images/service-fence-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gate-installation-repair": {
+        "src": "/images/service-gate-installation-repair.webp",
+        "srcset": "/images/service-gate-installation-repair-400w.webp 400w, /images/service-gate-installation-repair-800w.webp 800w, /images/service-gate-installation-repair-1200w.webp 1200w, /images/service-gate-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
